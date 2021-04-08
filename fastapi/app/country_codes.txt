@@ -1,0 +1,4 @@
+Here is a link to valid country codes:
+*Reminder: use two-letter code*
+
+https://pbxbook.com/other/iso3166.html
